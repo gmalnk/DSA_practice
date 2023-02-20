@@ -25,8 +25,8 @@ def breaker_function(my_array):
     else:
         return my_array
     
-def merge_sort(my_array):
+def merge_sort_fun(my_array):
     return(breaker_function(my_array))
     
 
-print(merge_sort([4,8,9,6,5,2,3,1,7,10]))
+print(merge_sort_fun([4,8,9,6,5,2,3,1,7,10]))
