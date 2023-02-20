@@ -7,4 +7,4 @@ def find_three_sums_brute_force(my_array,target):
                     returning_set.add((my_array[i], my_array[j], my_array[k]))
     return returning_set
                 
-print(find_three_sums_brute_force([1,-1,2,-2,0,0,1,2,2],0))     
+print(find_three_sums_brute_force([1,-1,2,-2,0,0,1,2,2],0))      
