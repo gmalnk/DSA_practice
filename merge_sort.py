@@ -29,4 +29,4 @@ def merge_sort_fun(my_array):
     return(breaker_function(my_array))
     
 
-print(merge_sort_fun([4,8,9,6,5,2,3,1,7,10]))
+merge_sort_fun([4,8,9,6,5,2,3,1,7,10])
